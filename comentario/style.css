@@ -1,0 +1,50 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.coment1{
+    margin: 10px;
+    width: fit-content
+    height 30px;
+   background-color: rgb(245, 139, 11);
+   text-align: center;
+
+}
+
+.coment2{
+    margin: 10px;
+    width: fit-content
+    height 30px;
+   background-color: rgb(245, 139, 11);
+   text-align: center;
+}
+
+.coment3{
+    margin: 10px;
+    width: fit-content
+    height 30px;
+   background-color: rgb(245, 139, 11);
+text-align: center;
+}
+.coment4{
+    margin: 10px;
+    width: fit-content
+    height 30px;
+   background-color: rgb(245, 139, 11);
+text-align: center;
+    
+}
+   .coment5{
+    
+    margin: 10px;
+    width: fit-content
+    height 30px;
+   background-color: rgb(245, 139, 11);
+text-align: center;
+   }
+   .user{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+        background-color: #6BFF33 ;
+        border-radius: 100px;
+        viewport-fit: 800px;
+       }
